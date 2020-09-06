@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+
+Faster than a **speeding bullet**! More powerful than a locomotive! Able to *leap __tall__ buildings* in a *single bound*!
